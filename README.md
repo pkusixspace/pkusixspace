@@ -70,19 +70,88 @@ He has led two projects funded by the National Natural Science Foundation of Chi
 Dr. Huang’s work has notably advanced big data, artificial intelligence, and the practical implementation of these technologies.
 
 # Cooperating Doctors
+## Li Hang
+Chief Physician, Professor, and Doctor of Medicine. Currently serving as the Vice President and Director of the Department of Dermatology at Peking University First Hospital, and Executive Vice Director of the National Clinical Research Center for Dermatology and Immunological Diseases. He is the General Secretary of the Dermatology Branch of the Chinese Medical Association, Chairman of the Dermatology Professional Committee, and Vice Chairman and Chairperson-elect of the Dermatology and Beauty Branch of the Chinese Leprosy Association. Additionally, he is a Standing Committee Member of the Beauty Dermatology Branch of the Chinese Plastic and Cosmetic Association and a member of the National Health Science Popularization Expert Database.
 
+## Gao Ying
+Doctor of Medicine, doctoral supervisor, member of the Youth Committee of the Endocrinology Branch of the Chinese Medical Association, and a member of the Thyroid and Basic Endocrinology Groups. She also serves in the Endocrinology Branch of the Beijing Medical Association. Her primary research centers on autoimmune thyroid diseases. Dr. Gao has received multiple grants from the National and Beijing Natural Science Foundations and has published nearly 50 papers in Chinese and English. She has contributed to research projects recognized with prestigious awards, including the third prize of the Chinese Medical Science and Technology Award and the first prize of the Ministry of Education's Excellent Scientific Research Achievement Award (Science and Technology) in Natural Science for Higher Education Institutions. Dr. Gao has been honored with Peking University School of Medicine’s "Young Scholar" award, the "Science and Technology Star" program of Beijing, and the "New Century Excellent Talent Support Program" of the Ministry of Education. She has also received the "Young Researcher Award" at the Huaxia Endocrinology Conference and the Huang Tingfang/Xinhe Young Outstanding Scholar Award from Peking University. Currently, Dr. Gao serves as a reviewer for JCEM, CEI, and CMJ.
+
+## He Jing
+Associate Professor and Chief Physician of the Department of Rheumatology and Immunology at Peking University People's Hospital; Deputy Director of the Rheumatology Research Institute at the same institution; Clinical Doctor at Peking University School of Medicine. Recognized as a Beijing Science and Technology Rising Star, she is a Youth Member of the Rheumatology and Immunology Specialist Branch of the Chinese Medical Association, a member of the Rheumatology and Immunology Branch of the Health Management Association, a Youth Member of the Basic Immunology Society Branch of the Asia Pacific Medical Biological Immunology Society, and a Youth Member of the Chinese Immunology Society. Dr. He also serves as Deputy Editor-in-Chief of Clin Rheum.
+
+## Yue Weihua
+Doctor of Medicine, Professor, Researcher, and Doctoral Supervisor. Recipient of both the National Outstanding Youth Science Fund and the National Excellent Youth Science Fund. He serves as Deputy Director (in charge of scientific research) of the Institute of Mental Health at Peking University Sixth Hospital and Deputy Director of the National Clinical Research Center for Mental and Psychological Disorders. His primary research focuses on clinical and applied basic studies of common mental illnesses, with particular expertise in diagnosis, treatment, and genetic counseling for schizophrenia and depression. Dr. Yue completed his bachelor’s degree at Jining Medical College in 1996, obtained his MD from Central South University in 2003, and was a senior visiting scholar at Harvard Medical School in 2012. He holds multiple academic positions, including membership in the Basic and Clinical Psychiatry Branch of the Chinese Society of Neuroscience, and serves as Vice Editor-in-Chief of Front Psychiatry, the Chinese Journal of Psychiatry, the Chinese Journal of Mental Health, and the Chinese Journal of Behavioral Medicine and Neuroscience. As a principal investigator, Dr. Yue has received funding from the National Natural Science Foundation of China, the National Key R&D Program (Chronic Disease Special Project), the National 863 Program, the Beijing Natural Science Foundation, and the Capital Health Development Research Special Project. He was named a “Beijing Science and Technology Rising Star in 2009, selected for the Ministry of Education New Century Excellent Talents Program in 2012, and received second prize from the Ministry of Education in 2019.
+
+## Chen Dongxue
+Director of the Research Office and Associate Researcher at the National Clinical Research Center for Mental Disorders at Peking University Sixth Hospital.
+
+## Chen Hongguang
+Associate Researcher at Peking University Sixth Hospital, specializing in psychiatry and psychology. With extensive experience in clinical practice and research, he has significantly contributed to the diagnosis and treatment of mental illnesses and psychological crisis intervention.
+
+## Wang Xueping
+Assistant Researcher at the National Clinical Research Center for Mental and Psychological Disorders (Peking University Sixth Hospital). Her research focuses on the molecular biology mechanisms underlying mental illnesses, especially the role of ion channels in the pathogenesis of these conditions. She has led multiple research projects, including the Capital Science and Technology Innovation Voucher Project on designing and developing a mental health scale and process (October 2018–December 2019) and the School-Level Youth Cultivation Fund Project on the molecular regulation mechanism of the potassium ion channel KCNH2 in schizophrenia (January 2018–December 2018).
+
+## Wang Hongxing
+Chief Physician, Associate Professor, PhD, and Postdoctoral Fellow at Xuanwu Hospital, Capital Medical University. He serves as the Vice Chairman of the 2nd Youth Committee of the Psychosomatic Medicine Branch of the Chinese Medical Association and the Vice Chairman of the Psychosomatic Medicine Branch of the Beijing Medical Association. Dr. Wang is also a Youth Committee Member of both the Basic and Clinical Psychiatry Branch of the Chinese Society of Neuroscience and the 4th Committee of the same branch. Additionally, he is an Executive Committee Member of the Middle-aged and Elderly Healthcare Branch of the China Association for the Promotion of International Exchange in Healthcare.
 
 # Laboratory Engineer
-
+1. Guofeng Sun
+2. Yunzhe Huang
+3. Kangying Xie
+4. Yupeng Hao
+5. Lei Jing
 
 # PhD Students
-
+1. Yiwei Lou
+2. Rongchao Zhang
+3. Dexuan Xu
+4. Yifan Xiao
+5. Yandong Yan
+6. Luru Jin
+7. Xingyu Yang
 
 # Master’s Students
-
+1. Yanyuan Chen
+2. Ziming You
+3. Jieyi Wang
+4. Liyin Xiao
+5. Zhongyan Chai
+6. Yumiao Zhang
+7. Shihao E
+8. Miaomiao Fan
+9. Zixiang Chen
+10. Chenzhuo Zhao
+11. Yue Huang
+12. Songkun Zhan
+13. Junxu Zhayang
+14. Jiayin Yuan
 
 ## Career Destinations of Academic Master and Doctoral Graduates
-
+1. Yang Jiaqi ByteDance
+2. Zhang Jiayu TP-Link
+3. Xu Dexuan Peking University
+4. Kan Qi Deloitte
+5. Yang Jiaqi ByteDance
+6. Zhu Huashi Alibaba
+7. Lü Haozheng ByteDance
+8. Qin Yuanze Civil servant in Chongqing
+9. Li Hang Microsoft
+10. Dai Tengyu Civil servant in Shanxi
+11. Wang Tianyou ByteDance
+12. Dou Chengfeng Peking University
+13. Li Yuemeng CICC
+14. Situ Boyang Huawei
+15. Ma Qinhong China Mobile
+16. Mao Zhenyu SenseTime
+17. Kang Heng (No organization specified)
+18. Huai Xu Baidu
+19. Jiang Weiwei Baidu
+20. Liao Jiawei Tencent
+21. Chen Hongxiang Huawei
+22. Jing Yuxin ByteDance
+23. Liu Shuxiu Military
+24. Huang Shuzhi Google
+25. Gu Zhengmin China Medical University
 
 <!--
 **pkusixspace/pkusixspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
